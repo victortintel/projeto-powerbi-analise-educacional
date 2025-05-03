@@ -42,12 +42,4 @@ O relatório contém 4 páginas interativas:
 - DAX para cálculos avançados
 - Visualizações interativas
 
-## Como Utilizar
-1. Clone o repositório
-2. Abra o arquivo .pbix no Power BI Desktop
-3. Interaja com os filtros e gráficos para explorar os dados
 
-## Insights Principais
-- [Inserir insights relevantes encontrados na análise]
-- [Padrões identificados]
-- [Recomendações baseadas em dados]
